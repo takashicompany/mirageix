@@ -1,5 +1,20 @@
-# mirageix
+# MirageiX
 
+<img src = "https://github.com/takashicompany/mirageix/blob/master/images/01.jpg?raw=true" width = "600px" />
+
+MirageiX(ミラージークス)は44キーの一体型キーボードです。  
+PCBを極限まで切り詰めたことでキーキャップのみが浮き出るようなビジュアルを実現しました。  
+透明なアクリルケースを用いることで蜃気楼のようなキーボード表現が楽しめます。  
+キー配列もTRONというキーボードの配置を参考にしているため、見た目以上にスムーズなタイピングを実現します。  
+キースイッチはソケットで固定されるため、キースイッチの交換を容易に行えます。  
+
+---
+
+MirageiX is a 44-key integrated keyboard.  
+The PCB has been trimmed to the limit to create a visual appearance in which only the keycaps seem to float.  
+By using a transparent acrylic case, you can enjoy a mirage-like keyboard expression.  
+The key layout is based on the TRON keyboard layout, making typing smoother than it looks.  
+Keyswitches are fixed with sockets, allowing easy replacement of keyswitches.
 
 # 部品と道具
 
@@ -25,6 +40,8 @@
 |<img src = "https://github.com/user-attachments/assets/5f61fd48-66ec-4989-b5de-17fe812b2177" width = "200px" />|[キースイッチソケット(MX)](https://shop.yushakobo.jp/products/a01ps)|44|キースイッチの取り替えが用意になります。|
 |<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "200px" />|[Cherry MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|44||
 |<img src = "https://github.com/takashicompany/rookey/assets/4215759/eafcac57-31fe-4c3a-829c-3cbf697e00ff" width = "200px" />|[Cherry MX軸用キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|44|全て1uとなります。|
+|<img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-01.jpg?raw=true" width = "200px" />|スイッチプレート|1||
+|<img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/080-bottom-01.jpg?raw=true" width = "200px" />|ボトムプレート|1||
 
 ## 組み立てに必要な道具
 
@@ -283,7 +300,7 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 姿勢や打鍵スタイルにあわせて滑り止めを貼ります。以下は取り付け例です。  
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/100-02.jpg?raw=true" width = "600px" />
 
-## 11. キーキャップの取り付け
+## 12. キーキャップの取り付け
 
 キースイッチにキーキャップを取り付けます。  
 <img src = "https://github.com/takashicompany/keyboard-name-here/blob/master/images/build/110-keycap-01.jpg?raw=true" width = "600px" />
