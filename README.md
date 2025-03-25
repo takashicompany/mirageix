@@ -1,5 +1,20 @@
-# mirageix
+# MirageiX
 
+<img src = "https://github.com/takashicompany/mirageix/blob/master/images/01.jpg?raw=true" width = "600px" />
+
+MirageiXは44キーの一体型キーボードです。  
+PCBを極限まで切り詰めたことでキーキャップのみが浮き出るようなビジュアルを実現しました。  
+透明なアクリルケースを用いることで蜃気楼のようなキーボード表現が楽しめます。  
+キー配列もTRONというキーボードの配置を参考にしているため、見た目以上にスムーズなタイピングを実現します。  
+キースイッチはソケットで固定されるため、キースイッチの交換を容易に行えます。  
+
+---
+
+MirageiX is a 44-key integrated keyboard.  
+The PCB has been trimmed to the limit to create a visual appearance in which only the keycaps seem to float.  
+By using a transparent acrylic case, you can enjoy a mirage-like keyboard expression.  
+The key layout is based on the TRON keyboard layout, making typing smoother than it looks.  
+Keyswitches are fixed with sockets, allowing easy replacement of keyswitches.
 
 # 部品と道具
 
