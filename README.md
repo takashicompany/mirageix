@@ -158,6 +158,10 @@ Pro Microとコンスルーをハンダ付けします。**コンスルーと基
 
 ## 5. ファームウェアの書き込み
 
+ファームウェアのソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/master/keyboards/takashicompany/mirageix)です。
+
+ファームウェアを書き込んで動作チェックを行います。MCUとPCを接続してください。  
+
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/050-firmware-01.jpg?raw=true" width = "600px" />
 
 ### Pro Micro
@@ -278,6 +282,11 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 
 姿勢や打鍵スタイルにあわせて滑り止めを貼ります。以下は取り付け例です。  
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/100-02.jpg?raw=true" width = "600px" />
+
+## 11. キーキャップの取り付け
+
+キースイッチにキーキャップを取り付けます。  
+<img src = "https://github.com/takashicompany/keyboard-name-here/blob/master/images/build/110-keycap-01.jpg?raw=true" width = "600px" />
 
 ### xx. 完成した後の楽しみ方
 
