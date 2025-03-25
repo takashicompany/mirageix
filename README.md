@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/01.jpg?raw=true" width = "600px" />
 
-MirageiXは44キーの一体型キーボードです。  
+MirageiX(ミラージークス)は44キーの一体型キーボードです。  
 PCBを極限まで切り詰めたことでキーキャップのみが浮き出るようなビジュアルを実現しました。  
 透明なアクリルケースを用いることで蜃気楼のようなキーボード表現が楽しめます。  
 キー配列もTRONというキーボードの配置を参考にしているため、見た目以上にスムーズなタイピングを実現します。  
