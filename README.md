@@ -210,7 +210,10 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-02.jpg?raw=true" width = "600px" />
 
 キースイッチを用意します。  
+<!--
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-03.jpg?raw=true" width = "600px" />
+-->
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "600px" />
 
 <!--
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-04-js-01.jpg?raw=true" width = "600px" />
@@ -222,12 +225,15 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-04-js-03.jpg?raw=true" width = "600px" />
 -->
 
+<!--
 数個のキースイッチをスイッチプレートに挿し込んで、基板とスイッチプレートをキースイッチで仮止めします。  
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-04.jpg?raw=true" width = "600px" />
+-->
 
-全てのキースイッチを取付けます。  
-<img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-07.jpg?raw=true" width = "600px" />
+数個のキースイッチをスイッチプレートに挿し込んで、基板とスイッチプレートをキースイッチで仮止めします。その後、全てのキースイッチを取付けます。  
+<img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-05.jpg?raw=true" width = "600px" />
 
+<!--
 ## 7b. ロータリーエンコーダの取付け
 
 ロータリエンコーダは回転操作による入力が可能です。スクロール操作によく使われます。ロータリーエンコーダによっては押し込みによりキー入力が可能なものもあります。  
@@ -241,6 +247,7 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 
 ロータリーエンコーダの足と基板をハンダ付けしたら完了です。
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/071-rotary-04.jpg?raw=true" width = "600px" />
+-->
 
 ## 8. ボトムプレートの取付け
 
@@ -256,10 +263,12 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 ボトムプレートの上面側から挿したネジをスペーサーで固定します。  
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/080-bottom-04.jpg?raw=true" width = "600px" />
 
+<!--
 ボトムプレートの上に基板とスイッチプレートを重ねます。  
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/080-bottom-05.jpg?raw=true" width = "600px" />
+-->
 
-スペーサーとスイッチプレートをネジで固定します。  
+ボトムプレートの上に基板とスイッチプレートを重ねて、スペーサーとスイッチプレートをネジで固定します。  
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/080-bottom-06.jpg?raw=true" width = "600px" />
 
 ## 10. 滑り止めの貼り付け
@@ -273,7 +282,7 @@ RemapでダイオードやPro Microが正しく動作するかを確認できま
 ### xx. 完成した後の楽しみ方
 
 完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。
-Twitterのハッシュタグは [`#キーボード名 #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23キーボード名&src=typed_query) を付けていただけると幸いです。
+Twitterのハッシュタグは [`#MirageiX #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23MirageiX&src=typed_query) を付けていただけると幸いです。
 キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！
 
 また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
