@@ -40,6 +40,8 @@ Keyswitches are fixed with sockets, allowing easy replacement of keyswitches.
 |<img src = "https://github.com/user-attachments/assets/5f61fd48-66ec-4989-b5de-17fe812b2177" width = "200px" />|[キースイッチソケット(MX)](https://shop.yushakobo.jp/products/a01ps)|44|キースイッチの取り替えが用意になります。|
 |<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "200px" />|[Cherry MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|44||
 |<img src = "https://github.com/takashicompany/rookey/assets/4215759/eafcac57-31fe-4c3a-829c-3cbf697e00ff" width = "200px" />|[Cherry MX軸用キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|44|全て1uとなります。|
+|<img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/070-switch-01.jpg?raw=true" width = "200px" />|スイッチプレート|1||
+|<img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/080-bottom-01.jpg?raw=true" width = "200px" />|ボトムプレート|1||
 
 ## 組み立てに必要な道具
 
