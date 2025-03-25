@@ -158,6 +158,10 @@ Pro Microとコンスルーをハンダ付けします。**コンスルーと基
 
 ## 5. ファームウェアの書き込み
 
+ファームウェアのソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/master/keyboards/takashicompany/mirageix)です。
+
+ファームウェアを書き込んで動作チェックを行います。MCUとPCを接続してください。  
+
 <img src = "https://github.com/takashicompany/mirageix/blob/master/images/build/050-firmware-01.jpg?raw=true" width = "600px" />
 
 ### Pro Micro
